@@ -4,3 +4,10 @@ Thumbs.db
 *.tmp
 .Spotlight-V100
 .Trashes
+
+# Experiment videos are kept locally; they are too large for GitHub
+Videos/
+*.MOV
+*.mov
+*.mp4
+*.MP4
